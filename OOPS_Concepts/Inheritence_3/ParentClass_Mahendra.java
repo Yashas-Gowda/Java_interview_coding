@@ -1,4 +1,4 @@
-package OOPS_Concepts.Inheritence;
+package OOPS_Concepts.Inheritence_3;
 
 public class ParentClass_Mahendra {
 
