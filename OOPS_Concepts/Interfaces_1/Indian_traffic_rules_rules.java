@@ -1,4 +1,4 @@
-package OOPS_Concepts.Interfaces;
+package OOPS_Concepts.Interfaces_1;
 
 public class Indian_traffic_rules_rules implements World_trafic_rules, Asian_Traffic_rules {
     public static void main(String[] args) {
