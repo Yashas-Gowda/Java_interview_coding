@@ -6,8 +6,6 @@ public class Child_Indian_Airlines extends Parent_World_Airline_rules {
         ca.Colour();
     }
 
-
-
     @Override
     public void name() {
         System.out.println("Name of Indian Airlines is Indigo");
