@@ -33,7 +33,6 @@ public class Indian_traffic_rules_rules implements World_trafic_rules, Asian_Tra
     @Override
     public void greenLight() {
         System.out.println("yelloLight");
-
     };
 
     public void OrangeLight() {
